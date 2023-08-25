@@ -1,0 +1,7 @@
+1. Kupić klawiaturę przystosowaną do szybkiego, wygodnego pisania kodu.
+TIP - Może być z "pustymi klawiszami" do zaprogramowania lub szybkiego wgrywania makr - np. do ustawienia jednym
+klawiszem "print()""
+
+https://www.morele.net/wiadomosc/jaka-klawiatura-dla-programisty/12989/
+
+Niższy skok ?

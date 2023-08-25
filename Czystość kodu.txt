@@ -1,0 +1,8 @@
+1. Zawsze zostawiaj pustą spację na końcu - nawykowo. Pomaga to przejść do końca kodu poprze Page Down i także sprzyja
+czytelności kodu. Poza tym PyCharm sugeruje, aby tak robić.
+PEP 8: W292 no newline at end of file
+
+2. Komentarze pisz do linii granicznej PyCharm. Jest to bardziej czytelne i nie trzeba przewijać w bok, aby przeczytać
+cały komentarz, więc jest to wygodne i sprzyja szybszemu odczytywaniu kodu i zapisków. Jest to linia 120 znaków
+PEP 8: E501 line too long (124 > 120 characters)
+

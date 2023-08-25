@@ -1,0 +1,8 @@
+Konsola, GIT bash:
+Ctrl + W - Wytnij słowo przed kursorem i dodaj je do bufora schowka.
+Ctrl + K - Wytnij część linii za kursorem i dodaj ją do bufora schowka. Jeśli kursor znajduje się na początku linii, wycina i kopiuje całą linię.
+Ctrl + U - Wytnij część linii przed kursorem i dodaj ją do bufora schowka. Jeśli kursor znajduje się na końcu linii, wycina i kopiuje całą linię.
+Ctrl + Y - Wklej ostatni tekst, który został wycięty i skopiowany.
+Ctrl + L - Clear. Działa tak samo jak clear, czyści okno terminala.
+Ctrl + Insert - Skopiuj do schowka (Tutaj w konsoli zaimplementowanej do PyCharma działa Ctrl + C).
+Shift + Insert - Wklej ze schowka (Tutaj w konsoli zaimplementowanej do PyCharma działa Ctrl + V)
