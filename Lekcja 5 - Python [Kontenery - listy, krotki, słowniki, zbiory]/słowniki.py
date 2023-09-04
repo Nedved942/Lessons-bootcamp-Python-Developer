@@ -9,4 +9,3 @@ sample_dict = {
     "last_name" : "Chodor"
     "age" : 50
 }
-
