@@ -1,0 +1,21 @@
+1. Czy w pracy zawsze pisze wyjaśnienie definicji, np. funkcji (co się robi w tej funkcji, jakich argumentów się używa)
+lub zmiennej (krótki opis zmiennej) + podświetlenie.
+
+2. Zmienne globalne - definicja, jak się je definiuje, po co są i jak wykorzystuje się je w praktyce?
+
+3. Czy macie poinstalowane jakieś wtyczki do samego terminala GIT bash? Jakie wtyczki mają do środowiska programistycznego? Czy używa ktoś wtyczek AI?
+
+4. Venv - środowisko wirtualne w Pycharm, czemu mi się psuje?? Zmiany nazw folderu projektu. Jak to naprawić? czy powinno świecić się na czerwono?
+
+5. Biblioteki. Ciekawe, użyteczne metody.
+
+6. Biblioteka PyGame - Czy ktoś korzystał? Czy robili jakieś gry? Czy mają jakieś projekty tego typu do przejrzenia? Ogólnie pogadać.
+
+7. Jak poprawnie sformułować try-except dla przykładu w tym katalogu?
+
+8. Ogólna rozmowa o pracy, przeglądanie projektów z pracy. Jakie projekty na własny użytek lub Open Source pisali na początku lub piszą teraz?
+
+9. Konsultacje z zadań. Omawianie już zaliczonych zadań (z tymi co zaliczyli). Omawianie jak coś można napisać? Jak nie wiem jak i co to pytanie.
+No i omawianie czy to napisane jest git i czy można lepiej, ładniej, lepiej użytkowo, czyściej, poprzez inną metodę, sposób, itp.?
+
+10. Jeśli pytanie jest ogólne lub sposobu pracy to mogę je zadawać różnym mentorom po kilka razy.

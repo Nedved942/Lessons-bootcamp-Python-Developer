@@ -1,6 +1,0 @@
-1. Czy w pracy zawsze pisze wyjaśnienie definicji, np. funkcji (co się robi w tej funkcji, jakich argumentów się używa)
-lub zmiennej (krótki opis zmiennej) + podświetlenie.
-
-2. Zmienne globalne - definicja, jak się je definiuje, po co są i jak wykorzystuje się je w praktyce?
-
-3. Czy macie poinstalowane jakieś wtyczki do samego terminala GIT bash?
