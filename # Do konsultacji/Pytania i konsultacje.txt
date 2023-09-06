@@ -19,3 +19,7 @@ lub zmiennej (krótki opis zmiennej) + podświetlenie.
 No i omawianie czy to napisane jest git i czy można lepiej, ładniej, lepiej użytkowo, czyściej, poprzez inną metodę, sposób, itp.?
 
 10. Jeśli pytanie jest ogólne lub sposobu pracy to mogę je zadawać różnym mentorom po kilka razy.
+
+11. Czemu na 80 znaków. Czy tak się pisze w rzeczywistości, w firmach? Praktykuje się dwa okna otwarte?
+
+12. Jak się strukturyzuje np. większe pętle - kilku poziomowe instrukcje, większe słowniki, itp.? Czy jeden pod drugim, kiedy jeden pod drugim?

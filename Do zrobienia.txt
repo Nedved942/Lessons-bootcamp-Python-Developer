@@ -1,0 +1,14 @@
+1. Robić zadania
+
+2. Poprzerabiać ostatnie lekcje, powtórzyć wideo, ładnie pozapisywać, jeśli trzeba porobić notatki - były na prawdę ciekawe rzeczy dobrze przedstawione.
+Lekcje 9, (11) , 12
+
+3. Korzystać z konsultacji, planować wcześniej nawet w poprzednim tygodniu, robić różne rzeczy i zadania żeby mieć co konsultować (materiał do konsultacji).
+Zapisywać nawykowo, nie czekać. Nawet można pogadać lub pokonsultować coś. Możesz konsultować coś z innych zakresów:
+Inne zadania, dobre praktyki, sposoby pracy, metody, wtyczki, rozmowy na temat ich pracy obecnej, szukanie pracy, robienie gier, pygame a może inny
+Wcześniejsze rzeczy, które robiłeś kiedyś. Zadania np. do rozmów kwalifikacyjnych. Inne projekty.
+Frameworki i praca z frameworkami. Inne programy. Pisanie aplikacji innych. Pisanie swojej aplikacji.
+Front developerka, ale też struktura w firmie.
+Rozwój. Angielski.
+Robienie gier - może ktoś się wcześniej tym zajmował lub pracował w firmie tego typu? Niekoniecznie w innym języku, może przy pisaniu skryptów w Pythonie?
+
