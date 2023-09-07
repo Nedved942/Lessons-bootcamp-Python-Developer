@@ -73,8 +73,8 @@ print()
 print(sys.argv) # sys.argv to lista, której elementami są podane argumenty przez użytkownika w konsoli po danej komendzie, w tym przypadku 'python', służącej do odpalenia programu
 
 file_name, first_name, last_name, age = sys.argv    # listę sys.argv z argumentami można przypisać do zmiennych w kodzie w taki sposób
-_, file_name, last_name, age = sys.argv             # pierwszy element w liście, czyli pierwszy argument jest to zawsze nazwa programu (pliku.py, który uruchamiamy). Jest on zwykle nieużywany, więc do jego przypisania wykorzystuje się często znak '_'
-file_name, last_name, age = sys.argv[1:]            # można też zrobić to w lepszy sposób, poprzez ucięcie listy z pierwszego elementu. Wtedy już nie przypisujemy go do zmiennej.
+_, first_name, last_name, age = sys.argv             # pierwszy element w liście, czyli pierwszy argument jest to zawsze nazwa programu (pliku.py, który uruchamiamy). Jest on zwykle nieużywany, więc do jego przypisania wykorzystuje się często znak '_'
+first_name, last_name, age = sys.argv[1:]            # można też zrobić to w lepszy sposób, poprzez ucięcie listy z pierwszego elementu. Wtedy już nie przypisujemy go do zmiennej.
 
 
 

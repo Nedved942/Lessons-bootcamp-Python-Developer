@@ -23,3 +23,5 @@ No i omawianie czy to napisane jest git i czy można lepiej, ładniej, lepiej u�
 11. Czemu na 80 znaków. Czy tak się pisze w rzeczywistości, w firmach? Praktykuje się dwa okna otwarte?
 
 12. Jak się strukturyzuje np. większe pętle - kilku poziomowe instrukcje, większe słowniki, itp.? Czy jeden pod drugim, kiedy jeden pod drugim?
+
+13. Instrukcja switch? Przykład w zadaniu 5.

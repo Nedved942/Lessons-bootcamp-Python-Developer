@@ -5,3 +5,14 @@ klawiszem "print()""
 https://www.morele.net/wiadomosc/jaka-klawiatura-dla-programisty/12989/
 
 Niższy skok ?
+
+2. Turtle - pobawić się, zobacz też co to jest po prostu [od Artura]
+
+3. Przydatne do tworzenia gier - popróbuj stworzyć jakieś gry, np Icy Towera.
+Na początek stwórz prostego i ciesz się tym. Pomysł na później (ciekawy pomysł :)) dodać twarze z memów, np. Janusza, itp.
+Pomysł 2 - Dodać boosty, jakieś znajdźki - mogą być też innowacyjne, np. zmieniające mechanikę gry
+lub wpływające na menu, wyświetlanie wyników, itp. (to już 3 faza). Żeby było zaskakująco.
+
+4. Co mogę zrobić lepiej?
+- Zadania warto robić niedługo po lekcji (do tygodnia po) na bieżąco.
+- Zapisuj, rób notatki na lekcjach
