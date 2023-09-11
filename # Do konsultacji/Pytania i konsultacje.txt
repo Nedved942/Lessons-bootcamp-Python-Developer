@@ -25,3 +25,5 @@ No i omawianie czy to napisane jest git i czy można lepiej, ładniej, lepiej u�
 12. Jak się strukturyzuje np. większe pętle - kilku poziomowe instrukcje, większe słowniki, itp.? Czy jeden pod drugim, kiedy jeden pod drugim?
 
 13. Instrukcja switch? Przykład w zadaniu 5.
+
+14. W zadaniu L12 - dlaczego mi nie chce się zaimportować argv sposobem from sys import argv?
