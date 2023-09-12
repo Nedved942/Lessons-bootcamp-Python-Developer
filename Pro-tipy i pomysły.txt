@@ -16,3 +16,7 @@ lub wpływające na menu, wyświetlanie wyników, itp. (to już 3 faza). Żeby b
 4. Co mogę zrobić lepiej?
 - Zadania warto robić niedługo po lekcji (do tygodnia po) na bieżąco.
 - Zapisuj, rób notatki na lekcjach
+
+5. Wtyczki:
+- Pre-commit - stylistyka i PEP (Artur używa)
+Przed commitem poprawia kod pod względem stylistyki, czystości kodu i zasad PEP.

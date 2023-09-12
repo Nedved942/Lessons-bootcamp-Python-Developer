@@ -1,9 +1,5 @@
 1. Często się korzysta z plików .csv w pracy?
 
-2. Czy można automatycznie za pomocą kodu zmienić rozszerzenie pliku? Przekonwertować. - ODPOWIEDZIANE
+2. Jaka to wtyczka co podpowada - wypełnia?
 
-3. Jaka to wtyczka co podpowada - wypełnia?
-
-4. Czy mógłby wytłumaczyć Debugowanie, bo wspominał o tym.
-
-5. Na później -- > try, except, raise  -  rozszerzyć temat
+3. Na później -- > try, except, raise  -  rozszerzyć temat
