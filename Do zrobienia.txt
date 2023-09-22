@@ -13,3 +13,7 @@ Rozwój. Angielski.
 Robienie gier - może ktoś się wcześniej tym zajmował lub pracował w firmie tego typu? Niekoniecznie w innym języku, może przy pisaniu skryptów w Pythonie?
 
 4. Zapisuj się w poniedziałek lub czwartek do Artura na omawianie zadań zrobionych i przyszłych
+
+5. Prosta gierka random
+
+6. Pierwsza konsultacja z tematu aplikacji

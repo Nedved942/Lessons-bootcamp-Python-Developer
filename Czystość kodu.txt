@@ -6,3 +6,5 @@ PEP 8: W292 no newline at end of file
 cały komentarz, więc jest to wygodne i sprzyja szybszemu odczytywaniu kodu i zapisków. Jest to linia 120 znaków
 PEP 8: E501 line too long (124 > 120 characters)
 
+3. Zasada DRY (Don't Repeat Yourself) - zasada ta odnosi się do tego, aby w kodzie używać jak najmniej powtarzających się
+fragmentów, takich samych lub podobnych. Taki kod należy umieścić w funkcji, której będzie można używać w wielu sytuacjach.
