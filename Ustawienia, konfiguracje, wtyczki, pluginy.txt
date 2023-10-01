@@ -1,0 +1,7 @@
+PYCHARM:
+
+Konfiguracja GIT bash w Pycharm:
+
+
+Automatyczne ustawienie wcięć:
+"File" (Plik) -> "Settings" (Ustawienia) -> "Editor" (Edytor) -> "Wrapping and braces" -> "Wrap on typing"

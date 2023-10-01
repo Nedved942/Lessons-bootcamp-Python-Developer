@@ -1,3 +1,18 @@
+DO ZADANIA:
+
+10. Instrukcja switch? Przykład w zadaniu 5.
+
+11. API - rozszerzenie tematu
+
+12. json
+
+15. Jak na GitHubie przypisać repozytorium kogoś innego do swojej kolekcji (tak jak zrobiłem to na GitLabie)?
+
+16. Metoda różni się od funkcji tym, że jest przypisana do jakiejś klasy?
+
+
+DO POWIELANIA:
+
 1. Czy w pracy zawsze pisze wyjaśnienie definicji, np. funkcji (co się robi w tej funkcji, jakich argumentów się używa)
 lub zmiennej (krótki opis zmiennej) + podświetlenie.
 
@@ -14,18 +29,13 @@ lub zmiennej (krótki opis zmiennej) + podświetlenie.
 7. Konsultacje z zadań. Omawianie już zaliczonych zadań (z tymi co zaliczyli). Omawianie jak coś można napisać? Jak nie wiem jak i co to pytanie.
 No i omawianie czy to napisane jest git i czy można lepiej, ładniej, lepiej użytkowo, czyściej, poprzez inną metodę, sposób, itp.?
 
-8. Jeśli pytanie jest ogólne lub sposobu pracy to mogę je zadawać różnym mentorom po kilka razy.
+14. Ktoś może interesuje się tematem tworzenia gier?
+
+
+ODPOWIEDZIANE:
 
 9. Jak się strukturyzuje np. większe pętle - kilku poziomowe instrukcje, większe słowniki, itp.? Czy jeden pod drugim, kiedy jeden pod drugim?
 
-10. Instrukcja switch? Przykład w zadaniu 5.
-
-11. API - rozszerzenie tematu
-
-12. json
-
 13. API a Web scraping - czy to się ze sobą wiąże? Jak? Czy to coś innego?
 
-
-
-14. Ktoś może interesuje się tematem tworzenia gier?
+17. Czy te metody 3 magiczne omawiane działają tylko do słowników?

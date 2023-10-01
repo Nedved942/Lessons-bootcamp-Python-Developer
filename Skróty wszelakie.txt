@@ -6,3 +6,7 @@ Ctrl + Y - Wklej ostatni tekst, który został wycięty i skopiowany.
 Ctrl + L - Clear. Działa tak samo jak clear, czyści okno terminala.
 Ctrl + Insert - Skopiuj do schowka (Tutaj w konsoli zaimplementowanej do PyCharma działa Ctrl + C).
 Shift + Insert - Wklej ze schowka (Tutaj w konsoli zaimplementowanej do PyCharma działa Ctrl + V)
+
+Pycharm:
+Tab po wpisaniu komendy tworzy "()" (kończy komendę)
+Alt + strzałka w górę, strzałka w dół - skakanie po initach

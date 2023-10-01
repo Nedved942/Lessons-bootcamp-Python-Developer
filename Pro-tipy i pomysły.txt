@@ -20,3 +20,9 @@ lub wpływające na menu, wyświetlanie wyników, itp. (to już 3 faza). Żeby b
 5. Wtyczki:
 - Pre-commit - stylistyka i PEP (Artur używa)
 Przed commitem poprawia kod pod względem stylistyki, czystości kodu i zasad PEP.
+
+6. Możesz ustawiać i używać wbudowanych LiveTemplates (Szablony na żywo).
+ "File" -> "Settings" -> "Editor" -> "Live Templates"
+
+7. Możesz przeglądać i definiować własne skróty.
+"File" -> "Settings" -> "Keymap"
