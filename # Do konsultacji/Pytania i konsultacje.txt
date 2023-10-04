@@ -1,15 +1,6 @@
 DO ZADANIA:
 
-10. Instrukcja switch? Przykład w zadaniu 5.
-
 11. API - rozszerzenie tematu
-
-12. json
-
-15. Jak na GitHubie przypisać repozytorium kogoś innego do swojej kolekcji (tak jak zrobiłem to na GitLabie)?
-
-16. Metoda różni się od funkcji tym, że jest przypisana do jakiejś klasy?
-
 
 DO POWIELANIA:
 
@@ -39,3 +30,14 @@ ODPOWIEDZIANE:
 13. API a Web scraping - czy to się ze sobą wiąże? Jak? Czy to coś innego?
 
 17. Czy te metody 3 magiczne omawiane działają tylko do słowników?
+
+10. Instrukcja switch? Przykład w zadaniu 5.
+
+12. json
+
+15. Jak na GitHubie przypisać repozytorium kogoś innego do swojej kolekcji (tak jak zrobiłem to na GitLabie)?
+
+16. Metoda różni się od funkcji tym, że jest przypisana do jakiejś klasy?
+
+17. Jak wygląda to w pracy, ile commitów się robi? Co wtedy, gdy np. zrobi się commit i np. jakieś dwie małe poprawki
+trzeba nanieść. Czy commituje się to, czy komentuje się to? Ile kodu się pisze w pracy?
