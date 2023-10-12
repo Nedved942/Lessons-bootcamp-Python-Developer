@@ -2,6 +2,8 @@ DO ZADANIA:
 
 11. API - rozszerzenie tematu
 
+19. Czy jak kończa pracę a nie ukończyli żadnej funkcjonalności, itp. to czy robia commit?
+
 DO POWIELANIA:
 
 1. Czy w pracy zawsze pisze wyjaśnienie definicji, np. funkcji (co się robi w tej funkcji, jakich argumentów się używa)
@@ -41,3 +43,6 @@ ODPOWIEDZIANE:
 
 17. Jak wygląda to w pracy, ile commitów się robi? Co wtedy, gdy np. zrobi się commit i np. jakieś dwie małe poprawki
 trzeba nanieść. Czy commituje się to, czy komentuje się to? Ile kodu się pisze w pracy?
+
+18. Pytanie w zwiazku z wirtualnym środowiskiem, czy zawsze kiedy odpala się program musi być aktywne środowisko, czyli
+zawsze trzeba je aktywować w konsoli? Nie wystarczy, że interpreter jest powiazany z projektem?

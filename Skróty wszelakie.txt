@@ -10,3 +10,10 @@ Shift + Insert - Wklej ze schowka (Tutaj w konsoli zaimplementowanej do PyCharma
 Pycharm:
 Tab po wpisaniu komendy tworzy "()" (kończy komendę)
 Alt + strzałka w górę, strzałka w dół - skakanie po initach
+Ctrl + Spacja - podpowiada możliwe rozwinięcie kodu !
+Ctrl + Alt + L - formatuje plik
+Alt + Shift + Insert - włącza tryb zaznaczania kilku kolumn na raz
+
+Przeglądarka, HTML:
+F12 - Otwarcie narzędza developerskiego z przeglądarki Chrome - DevTools. Narzędzie to pozwala m.in. na przeglądanie
+kodu źródłowego strony, a także na analizę i debugowanie stron internetowych
