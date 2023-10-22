@@ -1,8 +1,7 @@
 DO ZADANIA:
 
-11. API - rozszerzenie tematu
-
-19. Czy jak kończa pracę a nie ukończyli żadnej funkcjonalności, itp. to czy robia commit?
+24. Czy za każdym razem jak zaczyna dzień pracy nad jakimś projektem (ogólnie jak uruchamia się jakiś projekt) to czy
+zawsze trzeba aktywować wirtualne środowisko?
 
 DO POWIELANIA:
 
@@ -46,3 +45,18 @@ trzeba nanieść. Czy commituje się to, czy komentuje się to? Ile kodu się pi
 
 18. Pytanie w zwiazku z wirtualnym środowiskiem, czy zawsze kiedy odpala się program musi być aktywne środowisko, czyli
 zawsze trzeba je aktywować w konsoli? Nie wystarczy, że interpreter jest powiazany z projektem?
+
+11. API - rozszerzenie tematu
+
+19. Czy jak kończa pracę a nie ukończyli żadnej funkcjonalności, itp. to czy robią commit?
+
+20. Często się korzysta z plików .csv w pracy?
+
+21. Jaka to wtyczka co podpowada - wypełnia?
+
+22. Na później -- > try, except, raise  -  rozszerzyć temat
+
+23. Pytania do zadania L3
+# TODO Czy w liniach 3-13 należało by zrobić wyjątek Raise dla wartości mniejszych od 0?
+# TODO Czy Raise stosuje się dla takich właśnie sytuacji?
+# Czy powyżej lepiej zrobić z break czy ze zmienną pomocniczą jak w pliku try_except.py?
