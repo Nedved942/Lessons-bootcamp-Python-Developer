@@ -1,0 +1,9 @@
+Serializacja danych - zamiana/konwersja jednego typu na drugi.
+Przykłady:
+- zamiana int na str
+- zamiana str na int
+- zamiana int na float
+- zamiana str na json
+- zamiana datetime na str
+
+Epoch time - czas mierzony od 1 stycznia 1970 roku w sekundach (tzw. czas UNIXowy)

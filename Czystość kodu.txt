@@ -10,3 +10,15 @@ PEP 8: E501 line too long (124 > 120 characters)
 fragmentów, takich samych lub podobnych. Taki kod należy umieścić w funkcji, której będzie można używać w wielu sytuacjach.
 
 4. Klucze w słowniku też raczej nazywa się angielskimi nazwami i ze znakiem _, podobnie jak zmienne.
+
+5. 2 puste linie przed deklaracją klasy, 1 przed funkcją metodą
+
+6. Granulacja kodu - ...
+
+7. Kodowanie pliku w utf-8
+
+8. snake_case dla zmiennych i właściwości, CamelCase dla nazw klas
+
+9. STAŁE pisane wielkimi literami ze znakiem"_"
+
+10. uważaj na małe "L" i duże "O" w nazwach zmiennych, szczególnie, gdy jest to zmienna jednoliterowa

@@ -17,3 +17,5 @@ Robienie gier - może ktoś się wcześniej tym zajmował lub pracował w firmie
 5. Prosta gierka random
 
 6. Pierwsza konsultacja z tematu aplikacji
+
+7. Ogarnij to wyświetlanie w listach [x:y:z]. Czym dokładnie jest ta 3 wartość?
