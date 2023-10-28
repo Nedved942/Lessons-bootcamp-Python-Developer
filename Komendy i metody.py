@@ -50,6 +50,11 @@ my_dictonary["key"] = "value"  # Dodanie pary klucz-wartość do słownika
 """ Generatory """
 
 
+""" Dekoratory """
+# @staticmethod  # Metoda statyczna - pozwala odwoływać się do funkcji z poziomu klasy a nie z poziomu obiektu
+# Dzięki tej metodzie można "stworzyć" metodę, która nie wymaga self, czyli argumentu odnoszącego się do danego obiektu
+
+
 """ Instrukcja with open"""
 
 

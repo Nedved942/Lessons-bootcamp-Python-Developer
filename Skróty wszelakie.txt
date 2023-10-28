@@ -21,6 +21,10 @@ Ctrl + P - wyświetlenie np. argumentów funkcji
 Double Shift - Wyszukiwarka plików, klas, itp.
 Ctrl + Shift + F - Zaawansowane wyszukiwanie
 Ctrl + F4 - Zamknięcie aktywnej karty
+Ctrl + Alt + S - Otwarcie Settings
+
+Pluginy:
+Ctrl + Alt + X - Wyświetlenie/Zamknięcie zakładki Key Promoter X (Ustawione własnoręcznie)
 
 Przeglądarka, HTML:
 F12 - Otwarcie narzędza developerskiego z przeglądarki Chrome - DevTools. Narzędzie to pozwala m.in. na przeglądanie
