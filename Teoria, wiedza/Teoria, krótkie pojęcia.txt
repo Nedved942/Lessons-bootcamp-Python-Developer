@@ -7,3 +7,5 @@ Przykłady:
 - zamiana datetime na str
 
 Epoch time - czas mierzony od 1 stycznia 1970 roku w sekundach (tzw. czas UNIXowy)
+
+Instancja klasy - obiekt klasy
