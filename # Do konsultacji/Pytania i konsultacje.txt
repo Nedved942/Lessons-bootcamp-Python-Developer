@@ -1,6 +1,7 @@
 DO ZADANIA:
 
 
+
 DO POWIELANIA:
 
 1. Czy w pracy zawsze pisze wyjaśnienie definicji, np. funkcji (co się robi w tej funkcji, jakich argumentów się używa)

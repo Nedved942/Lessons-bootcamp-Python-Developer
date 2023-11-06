@@ -26,3 +26,5 @@ Przed commitem poprawia kod pod względem stylistyki, czystości kodu i zasad PE
 
 7. Możesz przeglądać i definiować własne skróty.
 "File" -> "Settings" -> "Keymap"
+
+8. NIE MIEJ OCZEKIWAŃ!
