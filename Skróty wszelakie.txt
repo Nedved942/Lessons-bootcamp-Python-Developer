@@ -9,7 +9,7 @@ Shift + Insert - Wklej ze schowka (Tutaj w konsoli zaimplementowanej do PyCharma
 
 Pycharm:
 Tab po wpisaniu komendy tworzy "()" (kończy komendę)
-Alt + strzałka w górę, strzałka w dół - skakanie po initach
+Alt + strzałka w górę, strzałka w dół - skakanie po definicjach metod
 Ctrl + Spacja - podpowiada możliwe rozwinięcie kodu !
 Ctrl + Alt + L - formatuje plik
 Alt + Shift + Insert - włącza tryb zaznaczania kilku kolumn na raz
@@ -22,6 +22,7 @@ Double Shift - Wyszukiwarka plików, klas, itp.
 Ctrl + Shift + F - Zaawansowane wyszukiwanie
 Ctrl + F4 - Zamknięcie aktywnej karty
 Ctrl + Alt + S - Otwarcie Settings
+Alt + Home - Okienko wyboru plików i folderów w otwartym projekcie
 
 Pluginy:
 Ctrl + Alt + X - Wyświetlenie/Zamknięcie zakładki Key Promoter X (Ustawione własnoręcznie)

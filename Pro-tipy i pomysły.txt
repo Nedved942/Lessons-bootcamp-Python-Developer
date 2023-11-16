@@ -28,3 +28,4 @@ Przed commitem poprawia kod pod względem stylistyki, czystości kodu i zasad PE
 "File" -> "Settings" -> "Keymap"
 
 8. NIE MIEJ OCZEKIWAŃ!
+Nie utożsamiaj się z programowaniem.
