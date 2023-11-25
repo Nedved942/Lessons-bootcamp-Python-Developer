@@ -12,5 +12,3 @@ def index():
 @app.route("/info")  # Odnośnik URL  (ogólnie jest to dekorator)
 def info():
     return "Hello World! :)"
-
-

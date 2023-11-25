@@ -1,5 +1,5 @@
 """.idea - ustawienia naszego Pycharma
-_Pycache - jakiś cache Puthonowy"""
+_Pycache - jakiś cache Pythonowy"""
 
 
 """
