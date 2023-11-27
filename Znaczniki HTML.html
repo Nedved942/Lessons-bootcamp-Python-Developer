@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+</body>
+</html>
+
+<p>Paragraf</p>
+<h1>Nagłówek</h1>
+<a href="www.link.pl">Anchor (kotwica), Hiperłącze</a>
+<br> Breakline
+
+{{ przekazanie_zmiennej }}
+<!--Komentarz-->
+{# Również komentarz #}
+
+
+{% with messages = get_flashed_messages() %}  {# Kod pozwala na wyświetlenie wiadomości z funkcji flash #}
+{% if messages %}
+    <ul>
+    {% for message in messages %}
+        <div class="alert alert-primary" role="alert">
+            {{ message }}
+        </div>
+    {% endfor %}
+    </ul>
+{% endif %}
+{% endwith %}
