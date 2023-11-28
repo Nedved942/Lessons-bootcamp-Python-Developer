@@ -18,8 +18,8 @@
 <!--Komentarz-->
 {# Również komentarz #}
 
-
-{% with messages = get_flashed_messages() %}  {# Kod pozwala na wyświetlenie wiadomości z funkcji flash #}
+{# Poniższy kod pozwala na wyświetlenie wiadomości z funkcji flash #}
+{% with messages = get_flashed_messages() %}
 {% if messages %}
     <ul>
     {% for message in messages %}
@@ -30,3 +30,15 @@
     </ul>
 {% endif %}
 {% endwith %}
+
+
+{% set title='nazwa_zmiennej' %}  {# Ustawienie zmiennej title #}
+{{ title }}  {# Wyświetlenie zmiennej title #}
+
+<ul>
+    Lista punktowana
+</ul>
+
+
+BOOTSTRAP 5
+
