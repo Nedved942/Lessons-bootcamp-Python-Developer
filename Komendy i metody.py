@@ -52,7 +52,6 @@ my_dictionary_two = dict()  # Definicja słownika - drugi sposób
 my_dictonary["key"] = "value"  # Dodanie pary klucz-wartość do słownika
 dict(my_dictonary)  # Konwersja typu danych na słownik
 
-
 """ Metody magiczne """
 
 

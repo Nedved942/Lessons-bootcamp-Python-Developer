@@ -1,6 +1,4 @@
 """
-Do jakiego typu programów należy Bootstrap?
-
 Jedna tabela reprezentuje rodzaj danych
 Rzędy to jest ilość wpisów
 Każda kolumna przechowuje jakiś typ danych
@@ -34,4 +32,6 @@ migracje
 
 
 skrót usuwanie przed kursorem !
+
+sesja - jednorazowa transakcja
 """
