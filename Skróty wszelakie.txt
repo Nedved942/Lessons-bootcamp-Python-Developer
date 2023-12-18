@@ -23,6 +23,7 @@ Ctrl + Shift + F - Zaawansowane wyszukiwanie
 Ctrl + F4 - Zamknięcie aktywnej karty
 Ctrl + Alt + S - Otwarcie Settings
 Alt + Home - Okienko wyboru plików i folderów w otwartym projekcie
+Ctrl + Shift + V - Wklej dowolny fragment skopiowany podczas trwania aktualnej sesji
 
 Pluginy:
 Ctrl + Alt + X - Wyświetlenie/Zamknięcie zakładki Key Promoter X (Ustawione własnoręcznie)

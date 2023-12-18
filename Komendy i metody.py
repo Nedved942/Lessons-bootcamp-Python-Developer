@@ -45,6 +45,7 @@ my_list.append(my_value)  # Dodanie elementu do listy
 my_list = my_list[::-1]  # Odwracanie listy
 my_list.reverse()  # Odwrócenie listy na stałe
 list(my_list)  # Konwersja typu danych na listę (np. z tuple)
+all(my_list)  # Zwraca True, jeśli wszystkie wartości w liście są True
 
 """ Słowniki """
 my_dictonary = {}  # Definicja słownika
