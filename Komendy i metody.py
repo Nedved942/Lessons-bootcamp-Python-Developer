@@ -111,7 +111,11 @@ json.loads(data_json)  # Serializacja/konwersja typu json na docelowy typ danych
 # json.dump()
 # json.load()
 
+
 """ RANDOM """
+import random
+
+random.randint(0,100 )
 
 
 """ DATETIME """
@@ -130,6 +134,7 @@ datetime.datetime.now()  # Zwraca obecną godzinę i dzień
 datetime.datetime.now().time()  # Zwraca tylko obecną godzinę
 datetime.datetime.now().date()  # Zwraca tylko obecny dzień
 
+
 """ TIME """
 import time
 
@@ -142,13 +147,17 @@ time.perf_counter()  # Perfekcyjny licznik # Zwraca liczbę zmiennoprzecinkową 
 """ COPY """
 
 
+
 """ PPRINT """
+
 
 
 """ SYS """
 
 
+
 """ OS """
+
 
 
 """ Biblioteki zaimplementowane """
@@ -158,7 +167,7 @@ time.perf_counter()  # Perfekcyjny licznik # Zwraca liczbę zmiennoprzecinkową 
 
 
 
-
+"""FLASK"""
 
 
 
