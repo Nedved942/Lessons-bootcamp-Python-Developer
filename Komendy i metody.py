@@ -51,7 +51,14 @@ all(my_list)  # Zwraca True, jeśli wszystkie wartości w liście są True
 my_dictonary = {}  # Definicja słownika
 my_dictionary_two = dict()  # Definicja słownika - drugi sposób
 my_dictonary["key"] = "value"  # Dodanie pary klucz-wartość do słownika
+my_dictonary.get("key")  # Sprawdza czy dany klucz jest w słowniku [zwraca "value"]
+my_dictonary.get("d") # Sprawdza czy dany klucz jest w słowniku [zwraca None]
+my_dictonary.get("d", False)  # Sprawdza czy dany klucz jest w słowniku [zwraca False]
 dict(my_dictonary)  # Konwersja typu danych na słownik
+is_key_in_dict = "key" in my_dictonary  # sprawdza czy dany klucz jest w słowniku [zwraca True]
+is_value_in_dict = "value" in my_dictonary.values()  # sprawdza czy dana wartość jest w słowniku [zwraca True]
+del my_dictonary["key"]  # Usuwa klucz-wartość ze słownika
+
 
 """ Metody magiczne """
 
@@ -169,5 +176,8 @@ time.perf_counter()  # Perfekcyjny licznik # Zwraca liczbę zmiennoprzecinkową 
 
 """FLASK"""
 
+
+
+"""PANDAS"""
 
 
