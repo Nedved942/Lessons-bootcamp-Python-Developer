@@ -59,6 +59,10 @@ is_key_in_dict = "key" in my_dictonary  # sprawdza czy dany klucz jest w słowni
 is_value_in_dict = "value" in my_dictonary.values()  # sprawdza czy dana wartość jest w słowniku [zwraca True]
 del my_dictonary["key"]  # Usuwa klucz-wartość ze słownika
 
+""" Zbiory """
+empty_set = set()
+sample_set = {"a", "b", "c", 1, True, ("a1", "a2", "a3")}
+
 
 """ Metody magiczne """
 
