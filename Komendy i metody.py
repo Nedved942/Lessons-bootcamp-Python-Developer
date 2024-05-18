@@ -52,7 +52,7 @@ my_dictonary = {}  # Definicja słownika
 my_dictionary_two = dict()  # Definicja słownika - drugi sposób
 my_dictonary["key"] = "value"  # Dodanie pary klucz-wartość do słownika
 my_dictonary.get("key")  # Sprawdza czy dany klucz jest w słowniku [zwraca "value"]
-my_dictonary.get("d") # Sprawdza czy dany klucz jest w słowniku [zwraca None]
+my_dictonary.get("d")  # Sprawdza czy dany klucz jest w słowniku [zwraca None]
 my_dictonary.get("d", False)  # Sprawdza czy dany klucz jest w słowniku [zwraca False]
 dict(my_dictonary)  # Konwersja typu danych na słownik
 is_key_in_dict = "key" in my_dictonary  # sprawdza czy dany klucz jest w słowniku [zwraca True]
@@ -60,8 +60,8 @@ is_value_in_dict = "value" in my_dictonary.values()  # sprawdza czy dana wartoś
 del my_dictonary["key"]  # Usuwa klucz-wartość ze słownika
 
 """ Zbiory """
-empty_set = set()
-sample_set = {"a", "b", "c", 1, True, ("a1", "a2", "a3")}
+my_set = set()  # Definicja pustego zbioru
+sample_set = {"a", "b", "c", 1, True, ("a1", "a2", "a3")}  # Definicja zbioru z wartościami - jedyny sposób
 
 
 """ Metody magiczne """
@@ -126,7 +126,12 @@ json.loads(data_json)  # Serializacja/konwersja typu json na docelowy typ danych
 """ RANDOM """
 import random
 
-random.randint(0,100 )
+random.randint(0, 100)  # Losuje wartość typu int z podanego przedziału liczbowego
+random.choice(my_list)  # Losuje dany element z kontenera (np. z listy)
+random.random()  # Losuje dowolną liczbę float z przedziału 0-1
+random.seed()  # Unikalne dane, które oduzależniają random od naszego procesora
+
+# random.shuffle()
 
 
 """ DATETIME """
@@ -158,30 +163,20 @@ time.perf_counter()  # Perfekcyjny licznik # Zwraca liczbę zmiennoprzecinkową 
 """ COPY """
 
 
-
 """ PPRINT """
-
 
 
 """ SYS """
 
 
-
 """ OS """
-
 
 
 """ Biblioteki zaimplementowane """
 """ REQUESTS """
 
 
-
-
-
 """FLASK"""
 
 
-
 """PANDAS"""
-
-
