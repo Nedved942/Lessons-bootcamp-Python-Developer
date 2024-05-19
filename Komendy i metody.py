@@ -161,7 +161,11 @@ time.perf_counter()  # Perfekcyjny licznik # Zwraca liczbę zmiennoprzecinkową 
 
 
 """ COPY """
+import copy
 
+copied_value = copy.copy(my_value)  # Płytka kopia tzw. Shallow Copy
+copied_value = copy.deepcopy(copied_value)  # Głęboka kopia (bardziej zaawansowana, ale bardziej pamięciożerna)
+# Używane do kopiowania obiektów mutowalnych
 
 """ PPRINT """
 
