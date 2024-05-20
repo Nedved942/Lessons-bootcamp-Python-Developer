@@ -11,7 +11,6 @@ bool(my_value)  # Konwersja typu danych (serializacja) na typ bool
 str(my_value)  # Konwersja typu danych (serializacja) na typ string
 dir(my_value)  # Wylistuje wszystkie możliwe funkcje i parametry danej zmiennej/typu
 
-
 """ Stringi """
 example_text = "Jakis//tekst//z//kilkoma//elementami"
 examp_text_2 = example_text + " i drugi tekst, który połączyłem (skonkatenowałem)."  # Konkatenacja (dodawanie stringów)
@@ -63,16 +62,14 @@ del my_dictonary["key"]  # Usuwa klucz-wartość ze słownika
 my_set = set()  # Definicja pustego zbioru
 sample_set = {"a", "b", "c", 1, True, ("a1", "a2", "a3")}  # Definicja zbioru z wartościami - jedyny sposób
 
-
 """ Metody magiczne """
 
-
 """ Generatory """
-
 
 """ Dekoratory """
 
 from functools import wraps, lru_cache
+
 
 # @staticmethod  # Metoda statyczna - pozwala odwoływać się do funkcji z poziomu klasy a nie z poziomu obiektu
 # Dzięki tej metodzie można "stworzyć" metodę, która nie wymaga self, czyli argumentu odnoszącego się do danego obiektu
@@ -94,11 +91,11 @@ def operation_time(callback):
     @wraps(callback)
     def wrapper():  # Tutaj jak i
         callback()
+
     return wrapper
 
 
 """ Instrukcja with open"""
-
 
 """Raise"""
 
@@ -110,7 +107,6 @@ class MyError(Exception):  # Przykładowa definicja wyjątku
 
 """ Biblioteki wbudowane """
 """ CSV """
-
 
 """ JSON """
 import json
@@ -136,6 +132,7 @@ random.seed()  # Unikalne dane, które oduzależniają random od naszego proceso
 
 """ DATETIME """
 import datetime
+
 # Date - operacje na datach (bez godzin, tylko daty)
 # Datetime - operacje na dniach i godzinach
 # Timedelta - np. różnice dat
@@ -149,7 +146,6 @@ some_date.strftime("%d-%m-%Y")  # Zamiana obiektu datetime.datetime na string w 
 datetime.datetime.now()  # Zwraca obecną godzinę i dzień
 datetime.datetime.now().time()  # Zwraca tylko obecną godzinę
 datetime.datetime.now().date()  # Zwraca tylko obecny dzień
-
 
 """ TIME """
 import time
@@ -168,19 +164,31 @@ copied_value = copy.deepcopy(copied_value)  # Głęboka kopia (bardziej zaawanso
 # Używane do kopiowania obiektów mutowalnych
 
 """ PPRINT """
+import pprint
+
+pprint.pprint(my_dictonary)  # "Pretty print" estetyczne formatowanie wyjść, często stosowane np. dla słowników dla
+# lepszej czytelności
+pprint.pp(my_dictonary)  # Dokładnie to samo polecenie co wyżej. Krótszy alias wprowadzony dla wygody na stałe do
+# biblioteki jako funkcja pprint()
 
 
 """ SYS """
+import sys
+
+list_of_inputs = sys.argv  # Zwraca listę argumentów wejściowych podanych w konsoli ("0" element to nazwa
+# uruchamianego pliku)
+sys.getsizeof(my_list)  # Zwraca rozmiar danego obiektu w bajtach
+path_variable = sys.path  # Zwraca listę ścieżek, które Python przeszukuje w poszukiwaniu modułów do importowania.
+# Można ją dynamicznie modyfikować w czasie wykonywania programu.
+name_of_system = sys.platform  # Zwraca nazwę systemu operacyjnego, na której działa Python, np. linux, win32,
+# darwin (MacOS).
 
 
 """ OS """
 
-
 """ Biblioteki zaimplementowane """
 """ REQUESTS """
 
-
 """FLASK"""
-
 
 """PANDAS"""
