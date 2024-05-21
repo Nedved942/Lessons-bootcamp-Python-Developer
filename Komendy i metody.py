@@ -190,13 +190,13 @@ name_of_system = sys.platform  # Zwraca nazwę systemu operacyjnego, na której 
 import math
 
 math.floor(my_value)  # Zaokrągla liczbę w dół.
-math.ceil(my_value)  #zaokrągla liczbę w górę
-math.fabs(my_value) #zwraca wartość absolutną (z pominięciem +/- na początku)
-math.log(my_value, base=2.71) # zwraca logarytm danej liczby. Jeśli parametr base nie jest podany, zwraca logarytm naturalny
-math.sin(my_value) # zwraca sinus liczby (w radianach)﻿
-math.cos(my_value) # zwraca cosinus liczby (w radianach)
-math.fsum([1, 2 ,3]) # zwraca sumę wszystkich elementów
-
+math.ceil(my_value)  # Zaokrągla liczbę w górę.
+math.fabs(my_value)  # Zwraca wartość absolutną (z pominięciem +/- na początku).
+math.log(my_value, base=2.71)  # Zwraca logarytm danej liczby. Jeśli parametr base nie jest podany, zwraca logarytm
+# naturalny
+math.sin(my_value)  # Zwraca sinus liczby (w radianach).
+math.cos(my_value)  # Zwraca cosinus liczby (w radianach).
+math.fsum([1, 2, 3])  # Zwraca sumę wszystkich elementów.
 
 
 """ Biblioteki zaimplementowane """
