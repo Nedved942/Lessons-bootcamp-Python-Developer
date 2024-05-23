@@ -10,6 +10,13 @@ float(my_value)  # Konwersja typu danych (serializacja) na typ float
 bool(my_value)  # Konwersja typu danych (serializacja) na typ bool
 str(my_value)  # Konwersja typu danych (serializacja) na typ string
 dir(my_value)  # Wylistuje wszystkie możliwe funkcje i parametry danej zmiennej/typu
+# in
+# not in
+id(my_value)  # Wskazuje na miejsce w pamięci zarezerwowane na dany obiekt
+# pass
+# break
+# continue
+
 
 """ Stringi """
 example_text = "Jakis//tekst//z//kilkoma//elementami"
@@ -37,6 +44,11 @@ print(example_text.replace("//", " "))  # Zamiana podanych elementów w tekście
 print(example_text.islower())  # Sprawdza czy cały tekst jest z małych liter
 print(example_text.isupper())  # Sprawdza czy cały tekst jest z dużych liter
 print(example_text.isnumeric())  # Sprawdza czy tekst jest numerem (jest wartością numeryczną)
+print("   a    ".strip())  # Usuwa znaki odstępu (spacji) umieszczone na początku i na końcu łańcucha znaków
+print("   a    ".lstrip())  # Usuwa znaki odstępu (spacji) umieszczone na początku łańcucha znaków
+print("   a    ".rstrip())  # Usuwa znaki odstępu (spacji) umieszczone na końcu łańcucha znaków
+print(example_text.index("s"))  # Zwraca indeks pierwszego wystąpienia znaku w łańcuchu. Jeśli nie ma zgłosi wyjątek.
+
 
 """ Listy """
 my_list = []  # Definicja listy
@@ -46,6 +58,9 @@ my_list = my_list[::-1]  # Odwracanie listy
 my_list.reverse()  # Odwrócenie listy na stałe
 list(my_list)  # Konwersja typu danych na listę (np. z tuple)
 all(my_list)  # Zwraca True, jeśli wszystkie wartości w liście są True
+# .remove()
+# .pop()
+
 
 """ Krotki """
 my_tuple = ()  # Definicja krotki
@@ -64,13 +79,17 @@ is_key_in_dict = "key" in my_dictonary  # sprawdza czy dany klucz jest w słowni
 is_value_in_dict = "value" in my_dictonary.values()  # sprawdza czy dana wartość jest w słowniku [zwraca True]
 del my_dictonary["key"]  # Usuwa klucz-wartość ze słownika
 
+
 """ Zbiory """
 my_set = set()  # Definicja pustego zbioru
 sample_set = {"a", "b", "c", 1, True, ("a1", "a2", "a3")}  # Definicja zbioru z wartościami - jedyny sposób
 
+
 """ Metody magiczne """
 
+
 """ Generatory """
+
 
 """ Dekoratory """
 
@@ -102,6 +121,7 @@ def operation_time(callback):
 
 """ Instrukcja with open"""
 
+
 """Raise"""
 
 
@@ -110,8 +130,14 @@ class MyError(Exception):  # Przykładowa definicja wyjątku
         return "Unexpected file format"
 
 
-""" Biblioteki wbudowane """
+""" Biblioteki wbudowane: """
+
 """ CSV """
+import csv
+
+# csv.writer()
+# csv.reader()
+# metoda writerow()
 
 """ JSON """
 import json
@@ -151,6 +177,7 @@ datetime.datetime.now()  # Zwraca obecną godzinę i dzień
 datetime.datetime.now().time()  # Zwraca tylko obecną godzinę
 datetime.datetime.now().date()  # Zwraca tylko obecny dzień
 
+
 """ TIME """
 import time
 
@@ -166,6 +193,7 @@ import copy
 copied_value = copy.copy(my_value)  # Płytka kopia tzw. Shallow Copy
 copied_value = copy.deepcopy(copied_value)  # Głęboka kopia (bardziej zaawansowana, ale bardziej pamięciożerna)
 # Używane do kopiowania obiektów mutowalnych
+
 
 """ PPRINT """
 import pprint
@@ -189,6 +217,9 @@ name_of_system = sys.platform  # Zwraca nazwę systemu operacyjnego, na której 
 
 
 """ OS """
+import os
+
+os.path.join("Users", "D2", "123.txt")  # Tworzy ścieżkę pliku kompatybilną z używanym systemem
 
 
 """ MATH """
@@ -202,11 +233,29 @@ math.log(my_value, base=2.71)  # Zwraca logarytm danej liczby. Jeśli parametr b
 math.sin(my_value)  # Zwraca sinus liczby (w radianach).
 math.cos(my_value)  # Zwraca cosinus liczby (w radianach).
 math.fsum([1, 2, 3])  # Zwraca sumę wszystkich elementów.
+math.pow(my_value, 2)  # Metoda potęgująca.
 
 
-""" Biblioteki zaimplementowane """
+""" STATISTICS """
+import statistics
+
+statistics.median(my_list)  # Zwraca medianę podanych wartości
+statistics.mean([1, 2, 3])  # Zwraca średnią podanych wartości
+statistics.mode(my_list)  # Zwraca dominantę podanych wartości
+
+
+""" KEYWORD """
+import keyword
+
+keyword.iskeyword(example_text)  # Sprawdza czy dany ciąg znaków jest słowem kluczowym w Pythonie
+
+
+""" Biblioteki zaimplementowane: """
+
 """ REQUESTS """
 
-"""FLASK"""
+""" FLASK """
 
-"""PANDAS"""
+""" PANDAS """
+
+""" PYGAME """
