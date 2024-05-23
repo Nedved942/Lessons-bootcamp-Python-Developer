@@ -6,6 +6,9 @@ Ctrl + Y - Wklej ostatni tekst, który został wycięty i skopiowany.
 Ctrl + L - Clear. Działa tak samo jak clear, czyści okno terminala.
 Ctrl + Insert - Skopiuj do schowka (Tutaj w konsoli zaimplementowanej do PyCharma działa Ctrl + C).
 Shift + Insert - Wklej ze schowka (Tutaj w konsoli zaimplementowanej do PyCharma działa Ctrl + V)
+Środkowy przycisk myszy - Wklej
+Q - Anuluj
+Tab - Przewijaj nazwy docelowych katalogów lub zmiennych
 
 Pycharm:
 Tab po wpisaniu komendy tworzy "()" (kończy komendę)
@@ -24,6 +27,10 @@ Ctrl + F4 - Zamknięcie aktywnej karty
 Ctrl + Alt + S - Otwarcie Settings
 Alt + Home - Okienko wyboru plików i folderów w otwartym projekcie
 Ctrl + Shift + V - Wklej dowolny fragment skopiowany podczas trwania aktualnej sesji
+Alt + 1 - przejście do okna projektów
+Alt + 6 - przejście do okna problemów i uwag
+Alt + F12 - przejście do okna pisania i edycji kodu
+Shift + F10 - uruchamia program z poziomu Python Console
 
 Pluginy:
 Ctrl + Alt + X - Wyświetlenie/Zamknięcie zakładki Key Promoter X (Ustawione własnoręcznie)

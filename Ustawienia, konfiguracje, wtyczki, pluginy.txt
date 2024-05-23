@@ -1,4 +1,5 @@
 PYCHARM:
+(Definiowanie środowiska Pycharm. Opcje, wtyczki, inicjacje w programie i dostosowanie)
 
 Konfiguracja GIT bash w Pycharm:
 

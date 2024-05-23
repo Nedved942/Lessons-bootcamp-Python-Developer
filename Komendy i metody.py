@@ -16,6 +16,7 @@ example_text = "Jakis//tekst//z//kilkoma//elementami"
 examp_text_2 = example_text + " i drugi tekst, który połączyłem (skonkatenowałem)."  # Konkatenacja (dodawanie stringów)
 f"To jest fstring. Może wyświelać zmienne takie jak {example_text} lub {my_value}."  # Tzw. fstring (format string)
 f"Zmienna odczytana jako float i podana do 25 miejsc po przecinku: {my_value:.25f}"  # Formatowanie zmiennej w fstring
+# Opisz .format i sposoby użycia
 splitted_text = example_text.split("//")  # Dzieli tekst względem podanego separatora i zapisuje jako elementy do listy
 joined_text = "___".join(splitted_text)  # Łączy elementy listy z użyciem podanego separatora
 print(example_text.find("tekst"))  # Wskazuje na indeks w jakim znalazło element
@@ -46,6 +47,11 @@ my_list.reverse()  # Odwrócenie listy na stałe
 list(my_list)  # Konwersja typu danych na listę (np. z tuple)
 all(my_list)  # Zwraca True, jeśli wszystkie wartości w liście są True
 
+""" Krotki """
+my_tuple = ()  # Definicja krotki
+my_tuple_only_one_element = (5,)  # Krotka z jednym elementem
+
+
 """ Słowniki """
 my_dictonary = {}  # Definicja słownika
 my_dictionary_two = dict()  # Definicja słownika - drugi sposób
@@ -69,7 +75,6 @@ sample_set = {"a", "b", "c", 1, True, ("a1", "a2", "a3")}  # Definicja zbioru z 
 """ Dekoratory """
 
 from functools import wraps, lru_cache
-
 
 # @staticmethod  # Metoda statyczna - pozwala odwoływać się do funkcji z poziomu klasy a nie z poziomu obiektu
 # Dzięki tej metodzie można "stworzyć" metodę, która nie wymaga self, czyli argumentu odnoszącego się do danego obiektu
