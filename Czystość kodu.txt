@@ -11,7 +11,7 @@ fragmentów, takich samych lub podobnych. Taki kod należy umieścić w funkcji,
 
 4. Klucze w słowniku też raczej nazywa się angielskimi nazwami i ze znakiem _, podobnie jak zmienne.
 
-5. 2 puste linie przed deklaracją klasy, 1 przed funkcją metodą
+5. 2 puste linie przed deklaracją klasy, 1 przed funkcją metodą. Unikaj spacji wewnątrz metody funkcji.
 
 6. Granulacja kodu - ...
 
@@ -21,4 +21,13 @@ fragmentów, takich samych lub podobnych. Taki kod należy umieścić w funkcji,
 
 9. STAŁE pisane wielkimi literami ze znakiem"_"
 
-10. uważaj na małe "L" i duże "O" w nazwach zmiennych, szczególnie, gdy jest to zmienna jednoliterowa
+10. Uważaj na małe "L" i duże "O" w nazwach zmiennych, szczególnie, gdy jest to zmienna jednoliterowa
+
+11. Linie nie powinny się kończyć pustymi znakami.
+
+12. Zasada KISS (Keep It Simple Stupid)
+
+13. Zasada YAGNI (You ain't gonna need it)
+
+Standard PEP:
+https://www.python.org/dev/peps/pep-0008/

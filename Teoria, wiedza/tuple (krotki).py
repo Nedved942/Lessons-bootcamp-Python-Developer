@@ -29,3 +29,20 @@ my_tuple = (5,)
 Funkcja enumerate() jako argument pobiera listę i zwraca generator, który po zamianie na listę, zwraca listę krotek, 
 gdzie pierwszy element krotki jest indeksem, a drugi wartością oryginalnej listy
 """
+
+"Następująca deklaracja jest jak najbardziej prawidłowa:"
+
+a, b = 1, 2
+print(a)
+print(b)
+
+"""
+Jest to możliwe dzięki wewnętrznemu użyciu tupli. Innymi słowy indeksy tupli mogą być zdefiniowane po obu stronach operatora przypisania
+Podobnie z wcześniejszą deklaracją tupli
+"""
+
+t1 = 1, 2
+a, b = t1
+print(t1)
+print(a)
+print(b)
